@@ -1,20 +1,33 @@
+body img{
+   background-size: cover;
+   max-width: 100%;
+   max-height: 100%;
+   
+   
+}
 main{
+    
     display: flex;
     width: 100vw;
     height: 100vh;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
+    
 }
+
 .container {
+    position: relative;
+    position: absolute;
     display: flex;
+    top: 20%;
     flex-direction: column;
-    background: rgb(255,198,0);
+    background: rgb(137, 117, 102);
     width: 400px;
     height: 600px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 20px;
-    box-shadow: 0 0 20px;
+    box-shadow: 0px 0px 45px rgb(5, 24, 238);
 }
 .title{
     display: flex;
@@ -50,7 +63,7 @@ button{
     height: 40px;
     font: bold 1.2rem serif;
     background: rgb(64, 53, 53);
-    color: rgb(23, 101, 16);
+    color: rgb(8, 9, 8);
     outline: none;
     border-radius: 5px;
     cursor: pointer;
@@ -64,7 +77,7 @@ button{
     height: 150px;
     border-radius: 5px;
     font: italic 1.5rem serif;
-    background: #000;
+    background: #797572;
     box-shadow: 0px 0px 10px black;
     color: rgb(255,198,0);
     padding: 20px;
