@@ -5,3 +5,4 @@ const Calcular =document.getElementById('calcular');
 const Resultado =document.getElementById('resultado');
 
 
+alert('click');
