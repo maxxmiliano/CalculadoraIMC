@@ -1,8 +1,20 @@
-const Digite_Nome =document.getElementById('nome');
-const Sua_altura =document.getElementById('altura');
-const Seu_peso =document.getElementById('peso');
+
 const Calcular =document.getElementById('calcular');
-const Resultado =document.getElementById('resultado');
 
 
-alert('testar click');
+
+function imc () {
+    const nome =document.getElementById('nome').value;
+    const altura =document.getElementById('altura').value;
+    const peso =document.getElementById('peso').value;
+    const resultado =document.getElementById('resultado');
+
+    if (nome !== '' && altura !== '' && peso !== '' ) {
+       alert ('valor preenchido')
+    } 
+    else {
+        alert ('preencha os campos')
+    }
+}
+
+Calcular.addEventListener('click',imc);
