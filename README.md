@@ -2,6 +2,9 @@
 
 ## Neste projeto aprendendi um pouco mais de Java Script, a buscar valores do inputs, tendo mais conhecimento com java script 
 aprendendo a manipular variáveis dar valor e capturar informaçõess do usuario. 
+
+com esse projeto também aprimorei minha habilidades com Css.
+
 ### tive um pouco de dificldade para entender a forma de como posicionar os comandos do java script
 e ainda tenho um pouco de dificuldade de enterder a linguagem, mas com a pratica estou me familiarizado 
 
