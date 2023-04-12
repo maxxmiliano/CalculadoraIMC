@@ -8,6 +8,8 @@ com esse projeto também aprimorei minha habilidades com Css.
 ### tive um pouco de dificldade para entender a forma de como posicionar os comandos do java script
 e ainda tenho um pouco de dificuldade de enterder a linguagem, mas com a pratica estou me familiarizado 
 
+https://maxxmiliano.github.io/CalculadoraIMC/
+
 ![image](https://user-images.githubusercontent.com/72661974/226217877-2366076f-ea28-4d2c-9e19-87a3d5d61d38.png)
 
 
